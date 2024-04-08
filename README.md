@@ -9,7 +9,7 @@ En esta formación vas a aprender de una forma práctica y didáctica la versió
 ---
 
 ## Cursos
-- 🐍  <a href="[https://1999azzar.github.io/1999AZZAR/](https://github.com/Tushima437/python/blob/main/Python%20para%20Data%20Science%3A%20Introducción%20al%20Lenguaje.ipynb)">Python para Data Science: Introducción al Lenguaje</a>
+- 🐍  <a href="(https://github.com/Tushima437/python/blob/main/Python%20para%20Data%20Science%3A%20Introducción%20al%20Lenguaje.ipynb)">Python para Data Science: Introducción al Lenguaje</a>
 - 🐍 Python para Data Science: Funciones, Librerías y Pandas básico
 - 🐼 Python Pandas: Tratamiento y análisis de datos
 - 📈 Data Visualization: Explorando con Seaborn
