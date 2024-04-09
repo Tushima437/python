@@ -18,3 +18,11 @@ En esta formación vas a aprender de una forma práctica y didáctica la versió
 - ☁️ Oracle ADS: análisis de datos en la nube
 - 💻 Machine Learning con Oracle ADS: productividad en la creación de modelos
 - 📈 Oracle Analytics: visualizando datos
+
+
+---
+
+##Paginas de interes
+PANDAS https://pandas.pydata.org/pandas-docs/stable/
+SEABORN https://seaborn.pydata.org/tutorial/introduction
+SKLEARN https://scikit-learn.org/stable/
