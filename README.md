@@ -22,7 +22,8 @@ En esta formación vas a aprender de una forma práctica y didáctica la versió
 
 ---
 
-##Paginas de interes
+## Paginas de interes
+
 PANDAS https://pandas.pydata.org/pandas-docs/stable/
 SEABORN https://seaborn.pydata.org/tutorial/introduction
 SKLEARN https://scikit-learn.org/stable/
