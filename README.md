@@ -31,3 +31,8 @@ En esta formación vas a aprender de una forma práctica y didáctica la versió
 <a href="https://matplotlib.org/stable/users/explain/colors/index.html#tutorials-colors">MATPLOTLIB</a>
 
 <a href="https://scikit-learn.org/stable/">SKLEARN</a>
+
+---
+
+Primeros pasos en inteligencia artificial ia <a href="[https://scikit-learn.org/stable/](https://www.aluracursos.com/blog/primeros-pasos-en-inteligencia-artificial-ia)">aqui</a>
+
