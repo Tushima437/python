@@ -13,7 +13,7 @@ En esta formación vas a aprender de una forma práctica y didáctica la versió
 - 🐍 <a href="https://github.com/Tushima437/python/blob/main/Python%20para%20Data%20Science%3A%20Funciones%2C%20Librerías%20y%20Pandas%20básico.ipynb">Python para Data Science: Funciones, Librerías y Pandas básico</a>
 - 🐼 <a href="https://github.com/Tushima437/python/blob/main/Python%20Pandas%20Tratamiento%20y%20análisis%20de%20datos.ipynb">Python Pandas: Tratamiento y análisis de datos</a>
 - 📈 <a href="https://github.com/Tushima437/python/blob/main/Data%20Visualization%20Explorando%20con%20Seaborn.ipynb">Data Visualization: Explorando con Seaborn</a>
-- 💻 Machine Learning: clasificación con SKLearn
+- 💻 <a href="https://github.com/Tushima437/python/blob/main/Machine%20Learning%20con%20SKLearn.ipynb">Machine Learning: clasificación con SKLearn</a>
 - 💻 Machine Learning: Optimización de modelos a través de hiperparámetros
 - ☁️ Oracle ADS: análisis de datos en la nube
 - 💻 Machine Learning con Oracle ADS: productividad en la creación de modelos
