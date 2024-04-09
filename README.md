@@ -24,8 +24,10 @@ En esta formación vas a aprender de una forma práctica y didáctica la versió
 
 ## Paginas de interes
 
-PANDAS https://pandas.pydata.org/pandas-docs/stable/
+<a href="https://pandas.pydata.org/pandas-docs/stable/">PANDAS</a>
 
-SEABORN https://seaborn.pydata.org/tutorial/introduction
+<a href="https://seaborn.pydata.org/tutorial/introduction">SEABORN</a>
 
-SKLEARN https://scikit-learn.org/stable/
+<a href="https://matplotlib.org/stable/users/explain/colors/index.html#tutorials-colors">MATPLOTLIB</a>
+
+<a href="https://scikit-learn.org/stable/">SKLEARN</a>
